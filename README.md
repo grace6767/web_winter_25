@@ -1,2 +1,8 @@
-# web_winter_25
-Super super cool web projects I cook up
+<ul>
+   <li><a href="html_demo">HTML Demo</a></li>
+   <li><a href="css_demo">CSS Demo</a></li>
+   <li><a href="midterm_demo"> Midterm</a></li>
+   <li><a href="js_demo">JS Demo</a></li>
+   <li><a href="final_demo">Final Demo</a></li>
+</ul>
+
