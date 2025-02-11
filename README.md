@@ -3,6 +3,6 @@
    <li><a href="css_demo">CSS Demo</a></li>
    <li><a href="midterm_demo"> Midterm</a></li>
    <li><a href="js_demo">JS Demo</a></li>
-   <li><a href="final_demo">Final Demo</a></li>
+   <li><a href="final">Final</a></li>
 </ul>
 
