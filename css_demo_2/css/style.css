@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: darkslateblue;
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.copy {
+    font-size: 25px;
+    color: darkolivegreen;
+    background-color: cornflowerblue;
+}
+
+.span1 {
+    color: lightpink;
+    font-size: xx-large;
+}
+
+.span2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: deeppink;    
+}

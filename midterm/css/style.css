@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(24, 10, 56);
+}
+
+h1{
+    border: 2px; color: rgb(255, 255, 255); text-align: center; size: 100px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: darkslateblue;
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+    color:midnightblue;
+}
